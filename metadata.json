@@ -1,0 +1,8 @@
+{
+  "name": "SoulSpace",
+  "description": "A HIPAA-compliant mental health platform bridging professional therapy with accessible self-healing tools. Features AI journaling, mood tracking, and tele-health management.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
